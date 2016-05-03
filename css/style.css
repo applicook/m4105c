@@ -7,3 +7,6 @@ body{
 .bleu{
     background-color:#2980b9;
 }
+form input{
+    border:1px solid #CCC;
+}

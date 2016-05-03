@@ -8,7 +8,7 @@ css/style.css
 images/calais.jpg
  
 FALLBACK:
-/ /offline.html
+#/ /offline.html
  
 NETWORK:
 *

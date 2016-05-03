@@ -1,0 +1,14 @@
+CACHE MANIFEST
+ 
+#v0.1
+ 
+CACHE:
+index.html
+css/style.css
+img/calais.jpg
+ 
+FALLBACK:
+/ /offline.html
+ 
+NETWORK:
+*

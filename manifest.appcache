@@ -5,7 +5,7 @@ CACHE MANIFEST
 CACHE:
 index.html
 css/style.css
-img/calais.jpg
+images/calais.jpg
  
 FALLBACK:
 / /offline.html
